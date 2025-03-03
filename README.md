@@ -1,3 +1,3 @@
 # Profile Website
 
-Profile website using Flask, HTML, CSS & PHP
+Profile website made using Flask, HTML, CSS & PHP.
